@@ -4,6 +4,8 @@
 
 I'm a B.E. Electrical and Electronics Engineering graduate with a strong interest in software development, specializing in **Java Backend Development**. I enjoy building RESTful APIs, developing secure applications, solving programming problems, and learning new technologies.
 
+> 💼 **Open to Work:** Looking for Java Backend Developer opportunities.
+
 - 🔭 Building backend applications using Java and Spring Boot
 - ☕ Working with Core Java, OOP, Collections and Exception Handling
 - 🔐 Implementing authentication and authorization using Spring Security and JWT
@@ -108,4 +110,18 @@ A SQL-based analytics project focused on banking operations, exception tracking,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rajkumar2504/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rajkumar2504">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rajkumar805680@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+</p>
