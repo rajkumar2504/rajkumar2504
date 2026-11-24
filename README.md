@@ -2,17 +2,19 @@
 
 ### 💻 Java Backend Developer | Spring Boot | REST APIs | MySQL
 
-I'm a B.E. Electrical and Electronics Engineering graduate with a strong interest in software development, specializing in **Java Backend Development**. I enjoy building RESTful APIs, developing secure applications, solving programming problems, and learning new technologies.
+## About Me
 
-> 💼 **Open to Work:** Looking for Java Backend Developer opportunities.
+I'm a B.E. Electrical and Electronics Engineering graduate with a strong passion for software development, specializing in **Java Backend Development**. I enjoy building scalable RESTful APIs, developing secure applications, solving programming challenges, and continuously exploring new technologies.
 
-- 🔭 Building backend applications using Java and Spring Boot
-- ☕ Working with Core Java, OOP, Collections and Exception Handling
-- 🔐 Implementing authentication and authorization using Spring Security and JWT
-- 🗄️ Working with MySQL, Hibernate and Spring Data JPA
-- 🧠 Practicing Data Structures and Algorithms
-- 🌱 Learning Backend System Design and advanced Spring Boot
-- 📍 India
+**Open to Work:** Actively seeking entry-level software Developer opportunities.
+
+- Building backend applications using Java and Spring Boot.
+- Strong foundation in Core Java, OOP, Collections, and Exception Handling.
+- Implementing authentication and authorization using Spring Security and JWT.
+- Working with MySQL, Hibernate, and Spring Data JPA.
+- Practicing Data Structures and Algorithms to strengthen problem-solving skills.
+- Exploring Backend System Design and advanced Spring Boot concepts.
+- Location: India
 
 ---
 
